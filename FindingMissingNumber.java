@@ -1,4 +1,4 @@
-package dsa.practice.string;
+package com.practice.string;
 
 public class FindingMissingNumber {
 
